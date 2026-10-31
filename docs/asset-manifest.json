@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3430,
-    "sha256": "7001843ced6e529e1067aae82bde0c8e9c144145866583a08f380aa56e726114"
+    "bytes": 3623,
+    "sha256": "91c6f477bd8adeb5c42c7c558d96450b0b9e7298857e7b7dc829e43cbea74ac7"
   },
   {
     "path": "assets/FONT-LICENSE.txt",
@@ -23,6 +23,36 @@
     "path": "assets/Manrope.ttf",
     "bytes": 164700,
     "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+  },
+  {
+    "path": "assets/backgrounds/commerce-studio.svg",
+    "bytes": 436,
+    "sha256": "5e41f48a4807cc9147892a9d279ebd4ba388d518c346f948ce376752bb3373b5"
+  },
+  {
+    "path": "assets/backgrounds/company-grid.svg",
+    "bytes": 793,
+    "sha256": "1a410726df782374a0565adfbdc26e7ad6fb97ef6cdea2eae71406360455eab0"
+  },
+  {
+    "path": "assets/backgrounds/game-cartography.svg",
+    "bytes": 7076,
+    "sha256": "c02208c7b78d996d59b1f143032de41c5467bd637412028394976dbf7a906e3f"
+  },
+  {
+    "path": "assets/backgrounds/harness-lattice.svg",
+    "bytes": 1753,
+    "sha256": "5c993c29592f2dd98723dd31b538202519a8c7741965a259c7cb0d8e981e5957"
+  },
+  {
+    "path": "assets/backgrounds/home-orbits.svg",
+    "bytes": 902,
+    "sha256": "4eb139cebee8993d5b749ed59ff8b0d92916751c0474fa9d0843cd5a40d0eef5"
+  },
+  {
+    "path": "assets/backgrounds/workbench-waves.svg",
+    "bytes": 1993,
+    "sha256": "62934851b9834699543bacae16eb94ed4e04ce70fcfc87e253813d926975ec83"
   },
   {
     "path": "assets/boss-cover.png",
@@ -160,6 +190,11 @@
     "sha256": "60076d4950e93b4dc77b7d588883dee890c230ae63416350690d6f805e382e5b"
   },
   {
+    "path": "atmospheres.css",
+    "bytes": 7845,
+    "sha256": "181ed56370e25d14844911ab494a95562710b000bfd2a2098973e375f0a40107"
+  },
+  {
     "path": "demos/robotlab/ai-workbench.css",
     "bytes": 12888,
     "sha256": "60f289eccd5d16742cf2a34eb7f9d5cb6e5aedd252e46d1a3c10b723754276e4"
@@ -256,8 +291,8 @@
   },
   {
     "path": "docs/ASSETS.md",
-    "bytes": 1410,
-    "sha256": "b8265220c96fbb9be7996f9e135d86dea917c46e8cfaaaf9bffbc8adcfc2c268"
+    "bytes": 1685,
+    "sha256": "858dee8deaea317a0711ab5916f93af3100c20583c9e91da246764ef8a8b72ff"
   },
   {
     "path": "docs/preview.png",
@@ -266,8 +301,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 46637,
-    "sha256": "05684fe1c5c0eacd349a3a6a1c9e8566404741324daf31e706d025902787eaff"
+    "bytes": 48028,
+    "sha256": "cd5c91cabeeba904012b7130da2677ff61d8e447805debaa5e295908038960e6"
   },
   {
     "path": "project-introductions.json",
@@ -286,8 +321,8 @@
   },
   {
     "path": "scripts/check_assets.py",
-    "bytes": 2525,
-    "sha256": "05d9a3880e93efc502916b0c47b2d51e34de2d7f0f60ea69fa41b4d7af496f3d"
+    "bytes": 2605,
+    "sha256": "c176b5fa463a553d5c9c233f20b1bada0b16e23965752c9d9813e8d91fffb41d"
   },
   {
     "path": "showroom.css",

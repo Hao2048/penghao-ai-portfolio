@@ -32,7 +32,8 @@ for p in files:
     if re.search(r'gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----|AIza[A-Za-z0-9_-]{30,}', text): errors.append(f'Possible credential: {p.relative_to(ROOT)}')
     if p.suffix == '.html': References(p).feed(text)
     if p.suffix == '.css':
-        for ref in re.findall(r'url\([\s\'\"]*([^\)\'\"]+)', text): check(ref.strip(), p)
+        css = re.sub(r'''url\(\s*(["'])data:.*?\1\s*\)''', '', text, flags=re.S)
+        for ref in re.findall(r'url\([\s\'\"]*([^\)\'\"]+)', css): check(ref.strip(), p)
     if p.suffix == '.js':
         for ref in re.findall(r'[\'\"](assets/[^\'\"]+|resume-data\.json|project-introductions\.json)[\'\"]', text): check(ref, p)
 manifest = ROOT / 'docs/asset-manifest.json'
