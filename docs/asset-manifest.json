@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3623,
-    "sha256": "91c6f477bd8adeb5c42c7c558d96450b0b9e7298857e7b7dc829e43cbea74ac7"
+    "bytes": 3716,
+    "sha256": "052c0881d032fed16b3bff733eb90ebd53af588a5ef6f070ac7f957780cddfa7"
   },
   {
     "path": "assets/FONT-LICENSE.txt",
@@ -155,9 +155,19 @@
     "sha256": "1867e319cd1ec0f9f6b4670d02865b1882e9b382996a7e746b682a3470b7a8ed"
   },
   {
+    "path": "assets/product-analysis-report.png",
+    "bytes": 567752,
+    "sha256": "2ff37f9ef6161bede07a8c86da255b5d8be4168839daf217cb8bf699b32a4130"
+  },
+  {
     "path": "assets/product-workbench.png",
     "bytes": 209080,
     "sha256": "192c0d7a1621f9975a94ee1cfe17ac894b87ff107db21ee2ca0fbb2494ed1c93"
+  },
+  {
+    "path": "assets/product-workflow-canvas.png",
+    "bytes": 494063,
+    "sha256": "6cb50adf4887fa3830bcc1c37eb94b12eba17826335290ea470f3097434c005f"
   },
   {
     "path": "assets/robot-courier-cover.jpg",
@@ -291,8 +301,8 @@
   },
   {
     "path": "docs/ASSETS.md",
-    "bytes": 1685,
-    "sha256": "858dee8deaea317a0711ab5916f93af3100c20583c9e91da246764ef8a8b72ff"
+    "bytes": 1846,
+    "sha256": "4481110d0854370f08e9f1799ac77c5b715c3a05e11c18911baf3a9ff3a6a1dc"
   },
   {
     "path": "docs/preview.png",
@@ -301,8 +311,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 48028,
-    "sha256": "cd5c91cabeeba904012b7130da2677ff61d8e447805debaa5e295908038960e6"
+    "bytes": 48588,
+    "sha256": "6169246eb28cf09d1b27ffc217c9a7691a85f53b27865db552785014bd37f24a"
   },
   {
     "path": "project-introductions.json",
@@ -331,7 +341,7 @@
   },
   {
     "path": "showroom.js",
-    "bytes": 13420,
-    "sha256": "f733cfbc7809cef3acf9cf72773fcedfd7f6a220ab452ee945045c0556b06ac8"
+    "bytes": 13532,
+    "sha256": "2e5e2b2ada896220f5f183d8744bf3af229affe35cfd12bb02ebc7def2134e0d"
   }
 ]

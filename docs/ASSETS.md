@@ -7,7 +7,8 @@
 | `education-*.png` | 具身智训交互原型界面示意 |
 | `healthcare-dify.png` | 用户提供的医护Agent流程图，按公司项目画面说明展示 |
 | `mrcreate-spatial-gallery-reference.png` | AI生成的MR空间漫游与图像预览概念图 |
-| `product-workbench.png` | 产品经理工作台原型 |
+| `product-workflow-canvas.png`, `product-analysis-report.png` | 用户提供的产品经理工作台实图：工作流编排与分析报告 |
+| `product-workbench.png` | 保留的早期产品经理工作台原型图 |
 | `video-workbench.png`, `video-demo.mp4` | 造影工作台与纸花动画产物 |
 | `robot-courier-demo.mp4`, `robot-courier-cover.jpg` | 造影小机器人动画的网页编码版本及预览帧 |
 | `music-workspace.jpg`, `music-editor.jpg` | 声序编曲及音符编辑界面 |

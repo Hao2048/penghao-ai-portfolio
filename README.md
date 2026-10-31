@@ -2,6 +2,7 @@
 
 个人作品集网页源码。围绕 Agent、RAG、AI创作工具与Unity互动体验，展示五个模块、十一项产品与作品。
 
+- **国内访问（飞书妙搭）：** https://gcnu1swyvn5d.feishu.link/app/app_17h4h4fg54t
 - **在线预览：** https://hao2048.github.io/penghao-ai-portfolio/
 - **原作品集地址：** https://penghao-ai-portfolio.epicheron6.chatgpt.site/
 
