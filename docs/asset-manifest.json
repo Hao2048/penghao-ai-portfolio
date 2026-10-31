@@ -1,0 +1,302 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 55,
+    "sha256": "4b8038fc3307edd021808a11014d908a121771e1c3aa4e2073757fa266a1045f"
+  },
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3430,
+    "sha256": "7001843ced6e529e1067aae82bde0c8e9c144145866583a08f380aa56e726114"
+  },
+  {
+    "path": "assets/FONT-LICENSE.txt",
+    "bytes": 4387,
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+  },
+  {
+    "path": "assets/Manrope.ttf",
+    "bytes": 164700,
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+  },
+  {
+    "path": "assets/boss-cover.png",
+    "bytes": 521486,
+    "sha256": "8bc0091d78e135ef9810ec53ef0b07fc9de73f78150742a9563af03108f0282a"
+  },
+  {
+    "path": "assets/boss-demo.mp4",
+    "bytes": 10796791,
+    "sha256": "9bb4dc30315fc7abd30d087ad1afa37f5cfb06bd583494965c2ba6148b342ee6"
+  },
+  {
+    "path": "assets/cloud-cover.jpg",
+    "bytes": 137250,
+    "sha256": "f714603eaeb92a5df775c299ded5abd9b917bbc3dad20517cbec216c95bd48ac"
+  },
+  {
+    "path": "assets/cloud-demo.mp4",
+    "bytes": 6084671,
+    "sha256": "1cd069d7a853cc9ef72628ebb5f77d57283e18e6e58030d6e35f8b123959ca17"
+  },
+  {
+    "path": "assets/commerce-config.png",
+    "bytes": 925384,
+    "sha256": "0d9bed39e9f31bad4ee5df6c1f6a99f951a69946e645ec7ac9d9674d794ee4d1"
+  },
+  {
+    "path": "assets/commerce-result.png",
+    "bytes": 4232362,
+    "sha256": "5372c84ad83fd4a97fa523c747e15124ca7cc839e5f3b5e3424a554ded263023"
+  },
+  {
+    "path": "assets/commerce-studio.png",
+    "bytes": 57853,
+    "sha256": "5583c321a53286b14f37f17a3bc754052afc987cbb6125b90a78f93f2ba00304"
+  },
+  {
+    "path": "assets/education-student.png",
+    "bytes": 59893,
+    "sha256": "07a0ba7e21d3902ee86ba3009d7492ae0c54d19fb0c64f5eab4c3e49dc84a768"
+  },
+  {
+    "path": "assets/education-teacher.png",
+    "bytes": 57380,
+    "sha256": "7f954e3a12b3b418cd0ad043e59a44e0e01726289ed9f95d362a54d48b89d103"
+  },
+  {
+    "path": "assets/education-training.png",
+    "bytes": 69504,
+    "sha256": "1fe266c3486052da20be5de4c9324558a22de3742e15191cd2e82a104860e15d"
+  },
+  {
+    "path": "assets/favicon.svg",
+    "bytes": 228,
+    "sha256": "5f2eb0fa3d2684834edada9fbc21d01c774c3ec52aa080ec2dbfc05953bfef6c"
+  },
+  {
+    "path": "assets/green-field-wind.mp3",
+    "bytes": 1371158,
+    "sha256": "f70c6089c1c826e477ff78bbaf8e1dc82d89793975156f785876c74e545621de"
+  },
+  {
+    "path": "assets/harness-memory.png",
+    "bytes": 298774,
+    "sha256": "100c2c8e9577b05db62d184d2f6349b6454c7e1e7b6585e263d4927cd5419dc1"
+  },
+  {
+    "path": "assets/harness-roles.png",
+    "bytes": 280563,
+    "sha256": "ebd05964e28e462b27cb37b66920d97660ca5607b5408ccf5ac932933e30b1ff"
+  },
+  {
+    "path": "assets/harness-workbench.png",
+    "bytes": 413088,
+    "sha256": "59d8faba7a715ef9cc433a230818e29d4f92bc976983c95fe36d4de2e5cbd41f"
+  },
+  {
+    "path": "assets/healthcare-dify.png",
+    "bytes": 156289,
+    "sha256": "88bf22ea8978de86f00b7ba94a1d09453a99716489ef6419af06f2a8da1b7219"
+  },
+  {
+    "path": "assets/mrcreate-spatial-gallery-reference.png",
+    "bytes": 2580369,
+    "sha256": "d2526c32152d89ff382aeae16bacc6ae27cc22e51c306c1b2bab78a04b382d9f"
+  },
+  {
+    "path": "assets/music-demo.mp3",
+    "bytes": 898656,
+    "sha256": "77c2eecfc26a358410c191ab42ab8be7650d7e7e5dd3788aeb38148c06d625f4"
+  },
+  {
+    "path": "assets/music-editor.jpg",
+    "bytes": 241692,
+    "sha256": "39dbf27f8863ec3446fee7733d458577f7efd0b0f07c6e8f4d18fdf284099d4e"
+  },
+  {
+    "path": "assets/music-workspace.jpg",
+    "bytes": 228907,
+    "sha256": "1867e319cd1ec0f9f6b4670d02865b1882e9b382996a7e746b682a3470b7a8ed"
+  },
+  {
+    "path": "assets/product-workbench.png",
+    "bytes": 209080,
+    "sha256": "192c0d7a1621f9975a94ee1cfe17ac894b87ff107db21ee2ca0fbb2494ed1c93"
+  },
+  {
+    "path": "assets/robot-courier-cover.jpg",
+    "bytes": 81936,
+    "sha256": "19ea3c3c1063febc0672e81db5a427875c176637cd625f21dac562a30db73d7b"
+  },
+  {
+    "path": "assets/robot-courier-demo.mp4",
+    "bytes": 10968238,
+    "sha256": "faa3c0f1c5210f247bbe80bc27890b6b2f5f4be97c0a7042183b6a7e335133a9"
+  },
+  {
+    "path": "assets/starry-cover.jpg",
+    "bytes": 757625,
+    "sha256": "9aa1a90084ab3b92e3091d7d875ff0665f62788a63142203a52d51925d2f4c5a"
+  },
+  {
+    "path": "assets/starry-demo.mp4",
+    "bytes": 7650301,
+    "sha256": "11650baab08646238b9c9f0728edffdbc609887681b9389d68f39eb47abe2d90"
+  },
+  {
+    "path": "assets/video-demo.mp4",
+    "bytes": 2807145,
+    "sha256": "f26cdf1171af3eafb1d3b34f690ac19847724c6d715ac81bcbbd0949b59d8bdf"
+  },
+  {
+    "path": "assets/video-workbench.png",
+    "bytes": 485619,
+    "sha256": "60076d4950e93b4dc77b7d588883dee890c230ae63416350690d6f805e382e5b"
+  },
+  {
+    "path": "demos/robotlab/ai-workbench.css",
+    "bytes": 12888,
+    "sha256": "60f289eccd5d16742cf2a34eb7f9d5cb6e5aedd252e46d1a3c10b723754276e4"
+  },
+  {
+    "path": "demos/robotlab/ai-workbench.js",
+    "bytes": 11803,
+    "sha256": "847126fd519a7f3a4e15cd196885b1217990ce250f32729f86ebc74cadabde5b"
+  },
+  {
+    "path": "demos/robotlab/analytics-data.js",
+    "bytes": 7977,
+    "sha256": "15e4c81b30f29ec63f2d498c3bea07dc53089ba7197dd697ec93d0eb25215543"
+  },
+  {
+    "path": "demos/robotlab/analytics.js",
+    "bytes": 40701,
+    "sha256": "52d7ba0fc2792ff5eaaa2a8b8dfaa54450d01425a9e2fb645aa7f308daa59d6a"
+  },
+  {
+    "path": "demos/robotlab/app.js",
+    "bytes": 67241,
+    "sha256": "0cb0b880ce01b43b05d3b0adf7ef98da5b4973c695324f1b91ddfbd8123a942f"
+  },
+  {
+    "path": "demos/robotlab/base.css",
+    "bytes": 14991,
+    "sha256": "0fdfe21562398c32cd97aba3acd7604afc6de248619a795db819bb749117b7ab"
+  },
+  {
+    "path": "demos/robotlab/catalog-data.js",
+    "bytes": 17422,
+    "sha256": "bf92922e88afc9238291b82c5a1d642d3522313741fdc16daae47b29c2ab8e00"
+  },
+  {
+    "path": "demos/robotlab/catalog.css",
+    "bytes": 17734,
+    "sha256": "0092b6393588f8f55eb24671356ab153eb22226eefbf8165d0e590adb3d50247"
+  },
+  {
+    "path": "demos/robotlab/catalog.js",
+    "bytes": 52365,
+    "sha256": "ae46743eaffca77aaceb9f4b72c0f571babd0623b5e311664393ce15e79bfca9"
+  },
+  {
+    "path": "demos/robotlab/drawing.js",
+    "bytes": 6901,
+    "sha256": "4d6f1915ad43ef96671c697a44244a7dfad7813c0e83b1042a8274e5d58044cf"
+  },
+  {
+    "path": "demos/robotlab/index.html",
+    "bytes": 2686,
+    "sha256": "d1b98562c9885dce9341a172f3db604743e5941360713c3a6f17b4c8114a34a6"
+  },
+  {
+    "path": "demos/robotlab/remediation-data.js",
+    "bytes": 8658,
+    "sha256": "75f0980e0ab6b010dc73f82289fe8752da1e2a4c4cc12a91218cab6c61386de0"
+  },
+  {
+    "path": "demos/robotlab/remediation.css",
+    "bytes": 25353,
+    "sha256": "044861e88c70afef725656620e4777b6e45e12d0050f62cf8c90b7650d5a5735"
+  },
+  {
+    "path": "demos/robotlab/remediation.js",
+    "bytes": 34834,
+    "sha256": "7395cb8dd82c674ff72e0b3b93346223ccdfaf8b4ab036fcf3f43d7e2d937a58"
+  },
+  {
+    "path": "demos/robotlab/robot-nodes-model.js",
+    "bytes": 7530,
+    "sha256": "6a54a7be0053254c9edda22fb2ed85e9abbadf21a542196dcc711c6f66d7b70f"
+  },
+  {
+    "path": "demos/robotlab/robot-nodes.css",
+    "bytes": 13503,
+    "sha256": "b2aaf8dac49ce4d5f0cb97974bff36c64e09175cff3983c1c3c0e11eee71408a"
+  },
+  {
+    "path": "demos/robotlab/robot-nodes.js",
+    "bytes": 27976,
+    "sha256": "cc3a2d9f3909905810d21cd849746de32d0eeb8af49e0d3fd98cfbb6592b79e9"
+  },
+  {
+    "path": "demos/robotlab/studio.css",
+    "bytes": 45244,
+    "sha256": "d3c6c53fdfff133aaf5c86473c902d744f8766cad45858e3bad0c960a18a1d6c"
+  },
+  {
+    "path": "demos/robotlab/workspace.css",
+    "bytes": 18051,
+    "sha256": "73b3bfee6d6c1b1ad1b69b885583e24480c3f8bef1f0bd99c9e3aa1d5e9e5521"
+  },
+  {
+    "path": "docs/ASSETS.md",
+    "bytes": 1410,
+    "sha256": "b8265220c96fbb9be7996f9e135d86dea917c46e8cfaaaf9bffbc8adcfc2c268"
+  },
+  {
+    "path": "docs/preview.png",
+    "bytes": 77473,
+    "sha256": "e82af901656f2bcc245e81e1899f59c600d270e98d13ab71271b62e63e529656"
+  },
+  {
+    "path": "index.html",
+    "bytes": 46637,
+    "sha256": "05684fe1c5c0eacd349a3a6a1c9e8566404741324daf31e706d025902787eaff"
+  },
+  {
+    "path": "project-introductions.json",
+    "bytes": 8995,
+    "sha256": "ca6ad17fdacc00bd3bc240abea046d784f7065a1f8ebf446ff064423408546e9"
+  },
+  {
+    "path": "resume-data.json",
+    "bytes": 18520,
+    "sha256": "c5f635bd582c40a8dd4cd8730a130814b1245db69722f479c49f11eb64b44558"
+  },
+  {
+    "path": "scene-navigation.js",
+    "bytes": 11102,
+    "sha256": "164b40304627275cbe345aaa56fd905324de7ce187de85206eeb65186fc8d6f5"
+  },
+  {
+    "path": "scripts/check_assets.py",
+    "bytes": 2525,
+    "sha256": "05d9a3880e93efc502916b0c47b2d51e34de2d7f0f60ea69fa41b4d7af496f3d"
+  },
+  {
+    "path": "showroom.css",
+    "bytes": 54075,
+    "sha256": "81f7792cb61cd45527fb8c6efed1b83c3e5a39104572df96b0ac7e0904228fcc"
+  },
+  {
+    "path": "showroom.js",
+    "bytes": 13420,
+    "sha256": "f733cfbc7809cef3acf9cf72773fcedfd7f6a220ab452ee945045c0556b06ac8"
+  }
+]
