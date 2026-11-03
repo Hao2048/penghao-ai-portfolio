@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 4111,
-    "sha256": "3c2c170b8875d0626514ca5c53511897f415581d4a40a41e387430999ed22f4d"
+    "bytes": 4240,
+    "sha256": "e35ca4c6a8170508bd15b3f699ee2dd73c078eca806d00d6b535a7539e1f8a08"
   },
   {
     "path": "assets/FONT-LICENSE.txt",
@@ -383,5 +383,10 @@
     "path": "showroom.js",
     "bytes": 13532,
     "sha256": "2e5e2b2ada896220f5f183d8744bf3af229affe35cfd12bb02ebc7def2134e0d"
+  },
+  {
+    "path": "docs/robotlab-visitor-20261103.zip",
+    "bytes": 156993,
+    "sha256": "8f5a920fe3551ea31f5754e8611cdda2faac8a4c9c68606849eb5c73f2c93e16"
   }
 ]
