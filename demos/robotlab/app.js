@@ -6,7 +6,7 @@ let db=loadCatalog(initial);
 let state={role:'teacher',domain:'vision',page:'courses',caseId:'case-cv-101',courseId:'cv-basic',mode:'exam',recordMode:'exam',tab:'task',threshold:128,minArea:400,contours:true,selected:0,sorted:[],running:false,phase:0,activeObject:0,grip:false,offset:0,view:'linked'};
 let objects=[];const allObjects=[{id:'01',shape:'circle',x:168,y:135,r:27,v:183,wx:28,wy:-45},{id:'02',shape:'square',x:350,y:120,r:26,v:166,wx:100,wy:7},{id:'03',shape:'circle',x:265,y:290,r:23,v:197,wx:-30,wy:46},{id:'04',shape:'square',x:465,y:280,r:25,v:155,wx:65,wy:85}];
 let animFrame=0,runStart=0,runQueue=[],runSnapshot=null,toastTimer,clockTimer;
-function save(){try{localStorage.setItem(STORE,JSON.stringify(db))}catch{toast('浏览器存储不可用，本次修改仅在当前页面保留')}}
+function save(){if(typeof window!=='undefined'&&window.learningSession&&!window.unifiedReady)return;try{localStorage.setItem(STORE,JSON.stringify(db))}catch{toast('浏览器存储不可用，本次修改仅在当前页面保留')}}
 const cfg=()=>selectedCase().draft,pub=()=>selectedCase().published||{...selectedCase().draft,version:0},attempt=()=>db.attempts[attemptKey()];
 function dirty(){const entry=selectedCase();if(!entry.published)return true;const a=clone(entry.published);delete a.version;delete a.publishedAt;return JSON.stringify(a)!==JSON.stringify(entry.draft)}
 function active(){return attempt()?.status==='active'}function currentConfig(){return attempt()?.config||pub()}
