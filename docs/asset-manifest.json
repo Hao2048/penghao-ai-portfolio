@@ -11,8 +11,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 4240,
-    "sha256": "e35ca4c6a8170508bd15b3f699ee2dd73c078eca806d00d6b535a7539e1f8a08"
+    "bytes": 4270,
+    "sha256": "bf42c151841ee3ba4ac3992d4395ea21544bf7e779f400e5521222aaaf39c46e"
   },
   {
     "path": "assets/FONT-LICENSE.txt",
@@ -236,8 +236,8 @@
   },
   {
     "path": "demos/robotlab/bootstrap.js",
-    "bytes": 1668,
-    "sha256": "6695d9ab31ae37c8aebf3f7b4a22c247f20e139f53a9d5798c9678ed03b90e19"
+    "bytes": 1691,
+    "sha256": "a10cb56a68c77d7bf3243bf4c966710064d46857e5386f36d1873e4d196737ea"
   },
   {
     "path": "demos/robotlab/catalog-data.js",
@@ -261,8 +261,18 @@
   },
   {
     "path": "demos/robotlab/index.html",
-    "bytes": 2536,
-    "sha256": "02ab6b314e1f750136ed73c949b5892984401764712bf9ea1f64eb66f7dcc570"
+    "bytes": 2587,
+    "sha256": "403d5196265e3e435ec9afe908b4c93875f72c891db61c86a8ef3c011923ed1e"
+  },
+  {
+    "path": "demos/robotlab/practice-library.css",
+    "bytes": 5961,
+    "sha256": "43d54769c17a52472591487f4ddf55391b1183a59efc53aecb5e9a9ff5f72619"
+  },
+  {
+    "path": "demos/robotlab/practice-library.js",
+    "bytes": 9572,
+    "sha256": "5bcd44b9383ad6cdbcdd96647cf9b82acb4bb35dac65e39fa44324d120d26adc"
   },
   {
     "path": "demos/robotlab/remediation-data.js",
@@ -316,8 +326,8 @@
   },
   {
     "path": "demos/robotlab/unified.js",
-    "bytes": 19954,
-    "sha256": "4fcc28c44dab77125adcd87734fdfdef92cc2ff0b7e06d9edb93803c13090ea6"
+    "bytes": 20097,
+    "sha256": "601630cf98ea4404430932b1887dda8024780332a0788041defdb3ac860cfbf9"
   },
   {
     "path": "demos/robotlab/vision-nodes-model.js",
@@ -350,9 +360,14 @@
     "sha256": "e82af901656f2bcc245e81e1899f59c600d270e98d13ab71271b62e63e529656"
   },
   {
+    "path": "docs/robotlab-visitor-20261103.zip",
+    "bytes": 162387,
+    "sha256": "b290b3ed071ab6e61cc90bc87a6654fb71c48877b3b74f0319477aedde05b7d5"
+  },
+  {
     "path": "index.html",
-    "bytes": 48657,
-    "sha256": "878100cab617597571fce6c135daa4e4ead77f5929f39fe9bc74407e6e9925e9"
+    "bytes": 48669,
+    "sha256": "54244d8134902d54c61bd0e6c58b325199553e09ad31cc4dc1874b4a037e9a6c"
   },
   {
     "path": "project-introductions.json",
@@ -383,10 +398,5 @@
     "path": "showroom.js",
     "bytes": 13532,
     "sha256": "2e5e2b2ada896220f5f183d8744bf3af229affe35cfd12bb02ebc7def2134e0d"
-  },
-  {
-    "path": "docs/robotlab-visitor-20261103.zip",
-    "bytes": 156993,
-    "sha256": "8f5a920fe3551ea31f5754e8611cdda2faac8a4c9c68606849eb5c73f2c93e16"
   }
 ]

@@ -9,7 +9,7 @@ window.learningSaveError='';
 window.queueLearningSave=data=>{try{localStorage.setItem(key,JSON.stringify(data));window.learningSyncStatus='作品集演示 · 已保存到本机'}catch{window.learningSyncStatus='作品集演示 · 仅当前页面保留'}const status=document.getElementById('syncStatus');if(status)status.textContent=window.learningSyncStatus};
 window.flushLearningSave=async()=>true;
 try{
-const scripts=["catalog-data.js", "drawing.js", "app.js", "catalog.js", "analytics-data.js", "analytics.js", "remediation-data.js", "remediation.js", "ai-workbench.js", "robot-nodes-model.js", "robot-nodes.js", "unified.js", "vision-nodes-model.js", "review-examples.js", "review-dashboard.js", "vision-nodes.js"];
+const scripts=["catalog-data.js", "drawing.js", "app.js", "catalog.js", "analytics-data.js", "analytics.js", "remediation-data.js", "remediation.js", "ai-workbench.js", "robot-nodes-model.js", "robot-nodes.js", "unified.js", "vision-nodes-model.js", "review-examples.js", "review-dashboard.js", "vision-nodes.js", "practice-library.js"];
 for(const src of scripts)await new Promise((resolve,reject)=>{const script=document.createElement('script');script.src=src;script.onload=resolve;script.onerror=()=>reject(Error('组件加载失败，请刷新页面重试。'));document.body.append(script)});
 document.getElementById('app').hidden=false;document.getElementById('accountGate')?.remove();
 }catch(error){const gate=document.getElementById('accountGate');gate.textContent=error.message}
