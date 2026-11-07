@@ -366,8 +366,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 48669,
-    "sha256": "54244d8134902d54c61bd0e6c58b325199553e09ad31cc4dc1874b4a037e9a6c"
+    "bytes": 49046,
+    "sha256": "f0c8ea34ce4fb4e153dcf57fa7d1ca4232a0cca0887507a5594d8854de9f5022"
   },
   {
     "path": "project-introductions.json",
@@ -376,8 +376,8 @@
   },
   {
     "path": "resume-data.json",
-    "bytes": 18520,
-    "sha256": "c5f635bd582c40a8dd4cd8730a130814b1245db69722f479c49f11eb64b44558"
+    "bytes": 15050,
+    "sha256": "edab364dfa6de91b35f7976e12cf5ddb525a2e7e516df59eda973475667cfd25"
   },
   {
     "path": "scene-navigation.js",
